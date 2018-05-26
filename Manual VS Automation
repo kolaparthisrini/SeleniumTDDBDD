@@ -1,0 +1,23 @@
+When Should I Use Manual vs. Automated Testing?
+
+In short, manual testing is best suited to the following areas/scenarios:
+
+>>Exploratory Testing: This type of testing requires the tester’s knowledge, experience, analytical/logical skills, creativity, and
+intuition. The test is characterized here by poorly written specification documentation, and/or a short time for execution. We need 
+the human skills to execute the testing process in this scenario.
+>>Usability Testing: This is an area in which you need to measure how user-friendly, efficient, or convenient the software or product is
+for the end users. Here, human observation is the most important factor, so a manual approach is preferable.
+>>Ad-hoc Testing: In this scenario, there is no specific approach. It is a totally unplanned method of testing where the understanding 
+and insight of the tester is the only important factor.
+
+Automated testing is the preferred option in the following areas/scenarios:
+---------------------------------------------------------------------------
+>>Regression Testing: Here, automated testing is suitable because of frequent code changes and the ability to run the regressions in a timely manner.
+>>Load Testing: Automated testing is also the best way to complete the testing efficiently when it comes to load testing. Learn more about load testing with our best practices guide.
+>>Repeated Execution: Testing which requires the repeated execution of a task is best automated.
+>>Performance Testing: Similarly, testing which requires the simulation of thousands of concurrent users requires automation.
+
+
+
+Keeping these factors in mind, you can find the best approach in any given testing situation and achieve quality output well within
+your budget and timeline.
