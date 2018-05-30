@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<title>Calculator</title>
+<body>
+<pre>
+a<input type="text" id="a" placeholder="Enter value" />
+b<input type="text" id="b" placeholder="Enter value" required="true"/><br>
+<input type="button" name="add" value="add" onclick="add()"/><input type="button" name="sub" value="sub" onclick="sub()"/>
+</pre>
+
+EE<img src="D:\\FUTURENOVA\\selenium\\giphy.gif" id="imgs">
+<input type="button" name="changeme" value="Changeme" onclick="changeme()"/>
+<script>
+function changeme()
+{
+
+document.getElementById("imgs").src="D:\\FUTURENOVA\\selenium\\WebDriver_and_Browsers(1).jpg";
+}
+function add()
+{
+alert(parseInt(document.getElementById("a").value)+parseInt(document.getElementById("b").value))
+}
+function sub()
+{
+alert(parseInt(document.getElementById("a").value)-parseInt(document.getElementById("b").value))
+}
+
+
+</script>
+
+</body>
+</html>
+
+
