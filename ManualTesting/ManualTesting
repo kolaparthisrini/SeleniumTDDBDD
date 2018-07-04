@@ -1,10 +1,34 @@
 
-Tools to Automate Manual Testing
--------------------------------
-Selenium
-QTP
-Jmeter
-Loadrunner
-TestLink
-Quality Center(ALM)
+Following are the manual testing tools (open-source) one need to use:
 
+1. Selenium (Web Application Testing)
+
+2. Appium (Mobile Testing)
+
+3. JMeter (Load Testing)
+
+4. Jenkins (Continuous Testing)
+
+5. TestLink (Test Management)
+
+6. Mantis (Bug-Tracking & Project Management)
+
+7. Postman (API Testing)
+
+8. Firebug / Firepath (Online Debugging)
+
+9. GitHub (Project & Source Code Hosting)
+
+10. Bugzilla (Defect Tracking & Collaboration)
+
+11. RazorSQL (Database Query Tool)
+
+12. PhantomJS (Headless Browser)
+
+13. UIAutomator (Android Testing Framework)
+
+14. Notepad++ (Source code Editor)
+
+15. FileZilla (FTP Solution)
+
+16. AutoIT (Language Automation)
