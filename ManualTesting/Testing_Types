@@ -1,0 +1,42 @@
+
+Regression Testing:
+------------------
+Regression testing technique is used to perform integration and system testing. Regression testing is basically focused on testing 
+the existing functionalities which might have affected because of any bug fix, new feature or change in code. 
+Regression testing can take a lot of time for bigger applications so it is very important to know how regression testing 
+can be performed effectively.
+
+Smoke Testing:
+-------------
+Smoke testing is the type of testing which is focused on testing the big functionalities of the application. It is used for
+the final check when the release is to be handed over to the users or client. Ideally, smoke testing should not take more 
+than 30 minutes.
+
+Alpha Testing:
+-------------
+It is the most common type of testing used in software industry. The objective of this testing is to identify all possible
+issues or defects before releasing it into the market or to the user. Alpha testing is carried out at the end of the software 
+development phase but before the Beta Testing. Still, minor design changes may be made as a result of such testing. 
+
+Alpha testing is conducted at the developer’s site. In-house virtual user environment can be created for this type of testing.
+
+Browser Compatibility Testing:
+-------------------------------
+It is a subtype of Compatibility Testing(which is explained below) and is performed by the testing team. Browser 
+Compatibility Testing is performed for web applications and it ensures that the software can run with the combination of 
+different browser and operating system. This type of testing also validates whether web application runs on all versions of
+all browsers or not.
+
+Gorilla Testing:
+-----------------
+Gorilla Testing is a testing type performed by a tester and sometimes by developer the as well. In Gorilla Testing, one
+module or the functionality in the module is tested thoroughly and heavily. The objective of this testing is to check the 
+robustness of the application.
+
+Integration Testing:
+-------------------
+Testing of all integrated modules to verify the combined functionality after integration is termed so. Modules are
+typically code modules, individual applications, client and server applications on a network, etc. This type of testing 
+is especially relevant to client/server and distributed systems.
+
+
