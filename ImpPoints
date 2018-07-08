@@ -1,0 +1,21 @@
+What is a defect?
+The variation between the actual results and expected results is known as defect.
+
+If a developer finds an issue and corrects it by himself in the development phase then it’s called a defect.
+
+What is a bug?
+If testers find any mismatch in the application/system in testing phase then they call it as Bug.
+As I mentioned earlier, there is a contradiction in the usage of Bug and Defect. People widely say the bug is an informal 
+name for the defect.
+
+What is an error?
+We can’t compile or run a program due to coding mistake in a program. If a developer unable to successfully compile or run a program
+then they call it as an error.
+
+What is a failure?
+Once the product is deployed and customers find any issues then they call the product as a failure product. After release, if an end 
+user finds an issue then that particular issue is called as failure
+
+Points to know:
+If a Quality Analyst (QA) finds a bug, he has to reproduce and record it using the bug report template.
+
