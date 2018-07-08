@@ -1,0 +1,104 @@
+
+Software test metrics is to monitor and control process and product. It helps to drive the project towards our planned goals without deviation.
+
+Metrics answer different questions. It’s important to decide what questions you want answers to.
+
+Software test metrics are classified into two types
+>>Process metrics
+>>Product metrics
+
+Test Case Preparation Productivity:
+It is used to calculate the number of Test Cases prepared and the effort spent for the preparation of Test Cases.
+
+Formula:Test Case Preparation Productivity = (No of Test Case)/ (Effort spent for Test Case Preparation)
+
+Ex:No. of Test cases = 240
+
+Effort spent for Test case preparation (in hours) = 10
+
+Test Case preparation productivity = 240/80 = 30 test cases/hour
+
+--------------------------------------
+
+Test Design Coverage:
+It helps to measure the percentage of test case coverage against the number of requirements
+
+Formula:
+Test Design Coverage = ((Total number of requirements mapped to test cases) / (Total number of requirements)*100
+
+Ex:
+
+Total number of requirements: 100
+
+Total number of requirements mapped to test cases: 98
+
+Test Design Coverage = (98/100)*100 = 98%
+
+--------------------------------------------------
+Test Execution Productivity:
+It determines the number of Test Cases that can be executed per hour.
+(No of Test cases executed)/ (Effort spent for execution of test cases)
+
+Ex:No of Test cases executed = 180
+
+Effort spent for execution of test cases = 10
+
+Test Execution Productivity = 180/10 = 18 test cases/hour
+---------------------------------------------------------------
+
+Test Execution Coverage:
+It is to measure the number of test cases executed against the number of test cases planed.
+
+Formula:
+Test Execution Coverage = (Total no. of test cases executed / Total no. of test cases planned to execute)*100
+
+Ex:Total no. of test cases planned to execute = 240
+
+Total no. of test cases executed = 160
+
+Test Execution Coverage = (180/240)*100 = 75%
+----------------------------------------------
+Test Cases Passed:
+It is to measure the percentage no. of test cases passed
+
+Formula:
+Test Cases Failed = (Total no. of test cases failed) / (Total no. of test cases executed) * 100
+
+Ex:Test Cases Pass = (80/90)*100 = 88.8 = 89%
+
+-----------------------------------------------------------------------
+
+Test Cases Failed:
+It is to measure the percentage no. of test cases failed
+
+Formula:
+Test Cases Failed = (Total no. of test cases failed) / (Total no. of test cases executed) * 100
+
+Ex:Test Cases Failed= (10/90)*100 = 11.1 = 11%
+
+-----------------------------------------------------------
+Defect Fix Rate:
+It helps to know the quality of a build in terms of defect fixing.
+
+Formula:
+Defect Fix Rate = (Total no of Defects reported as fixed - Total no. of defects reopened) / (Total no of Defects reported as fixed + Total no. of new Bugs due to fix)*100
+
+Ex:Total no of defects reported as fixed = 10
+
+Total no. of defects reopened = 2
+
+Total no. of new Bugs due to fix = 1
+
+Defect Fix Rate = ((10 – 2)/(10 + 1))*100 = (8/11)100 = 72.7 = 73%
+------------------------------------------------------------------------
+Defect Removal Efficiency:
+It allows us to compare the overall (defects found pre and post-delivery) defect removal efficiency
+
+Formula:
+Defect Removal Efficiency = ((Total no. of defects found pre-delivery) /( (Total no. of defects found pre-delivery )+ (Total no. of defects found post-delivery)))* 100
+
+Ex:Total no. of defects found pre-delivery = 80
+
+Total no. of defects found post-delivery = 10
+
+Defect Removal Efficiency = ((80) / ((80) + (10)))*100 = (80/90)*100 = 88.8 = 89%
