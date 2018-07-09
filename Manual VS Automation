@@ -1,3 +1,4 @@
+
 When Should I Use Manual vs. Automated Testing?
 
 In short, manual testing is best suited to the following areas/scenarios:
@@ -13,10 +14,8 @@ and insight of the tester is the only important factor.
 Automated testing is the preferred option in the following areas/scenarios:
 ---------------------------------------------------------------------------
 >>Regression Testing: Here, automated testing is suitable because of frequent code changes and the ability to run the regressions in a timely manner.
->>Load Testing: Automated testing is also the best way to complete the testing efficiently when it comes to load testing. Learn more about load testing with our best practices guide.
 >>Repeated Execution: Testing which requires the repeated execution of a task is best automated.
 >>Performance Testing: Similarly, testing which requires the simulation of thousands of concurrent users requires automation.
-
 
 
 Keeping these factors in mind, you can find the best approach in any given testing situation and achieve quality output well within
