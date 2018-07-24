@@ -1,0 +1,10 @@
+
+>Links are accessed using the click() method.
+>Apart from the locators available for any WebElement, Links also have link text based locators:
+  By.linkText() – locates the links based on the exact match of the link's text provided as a parameter.
+  By.partialLinkText() – locates links based on the partial text match of the link's text.
+>If there are multiple matches, By.linkText() and By.partialLinkText() will only select the first match. 
+In such cases where multiple links with the same link text are present, other locators based on xpath, CSS are used
+>Accessing image links are done using By.cssSelector() and By.xpath() methods.
+>By.xpath() is commonly used to access table elements.
+>
